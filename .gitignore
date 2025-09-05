@@ -10,3 +10,6 @@ absClass/absClass.xcodeproj/project.pbxproj
 absClass/absClass.xcodeproj/xcuserdata/codebreaker.xcuserdatad/xcschemes/xcschememanagement.plist
 dp_subarray/dp_subarray.xcodeproj/xcshareddata/xcschemes/dp_subarray.xcscheme
 .DS_Store
+cpp_operatoroverloading/cpp_operatoroverloading.xcodeproj/xcuserdata/codebreaker.xcuserdatad/xcschemes/xcschememanagement.plist
+*.plist
+*.plist

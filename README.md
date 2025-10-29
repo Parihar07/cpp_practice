@@ -1,2 +1,1 @@
-# cpp_practice
-My practice for CPP and oops
+cpp programming and design patterns

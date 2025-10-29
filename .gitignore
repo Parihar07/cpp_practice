@@ -1,16 +1,6 @@
 # macOS
 .DS_Store
 
-# Xcode user-specific files
-xcuserdata/
-*.xcuserstate
-*.xcscheme
-*.xcschememanagement.plist
-
-# Xcode project files
-*.pbxproj
-
-# Xcode workspace (user-specific)
+# Xcode - ignore entire project directories
+*.xcodeproj/
 *.xcworkspace/
-!*.xcworkspace/contents.xcworkspacedata
-!*.xcworkspace/xcshareddata/

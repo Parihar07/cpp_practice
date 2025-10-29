@@ -7,6 +7,9 @@ xcuserdata/
 *.xcscheme
 *.xcschememanagement.plist
 
+# Xcode project files
+*.pbxproj
+
 # Xcode workspace (user-specific)
 *.xcworkspace/
 !*.xcworkspace/contents.xcworkspacedata
